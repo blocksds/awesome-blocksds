@@ -40,6 +40,8 @@ This document is under the CC0 1.0 universal license.
 - [uxnds](https://github.com/asiekierka/uxnds): NDS/3DS fork/port of the
   uxn/Varvara virtual machine.
 - [VNDS](https://github.com/asiekierka/vnds)
+- [Volumetric Shadow Demo](https://github.com/AntonioND/volumetric_shadow_demo):
+  Demo of hardware accelerated volumetric shadows and some other 3D features.
 
 ## Development libraries for NDS
 
