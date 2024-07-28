@@ -14,6 +14,8 @@ This document is under the CC0 1.0 universal license.
 
 ## Original games
 
+- [Meteora Galactic Battle](https://github.com/AntonioND/meteora): Arcade game
+  of fighting as a god against other planets.
 - [PortalDS](https://github.com/asiekierka/portalDS): Homebrew adaptation of
   Valve's Portal.
 - [Space Impakto DS](https://github.com/AntonioND/SpaceImpakto-DS): A
