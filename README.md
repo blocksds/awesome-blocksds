@@ -69,6 +69,8 @@ This document is under the CC0 1.0 universal license.
   3D applications.
 - [µLibrary](https://github.com/AntonioND/ulibrary): Library to develop 2D
   applications using the 3D hardware of the DS.
+- [wifikb](https://github.com/headshot2017/wifikb): Library that allows you to
+  use your PC's keyboard to type text on your DS homebrew.
 
 ## Ports of libraries to NDS
 
