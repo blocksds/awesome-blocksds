@@ -71,6 +71,8 @@ This document is under the CC0 1.0 universal license.
   applications using the 3D hardware of the DS.
 - [wifikb](https://github.com/headshot2017/wifikb): Library that allows you to
   use your PC's keyboard to type text on your DS homebrew.
+- [Woopsi](https://github.com/AntonioND/Woopsi):  Nintendo DS GUI framework for
+  creating user interfaces for homebrew software.
 
 ## Ports of libraries to NDS
 
