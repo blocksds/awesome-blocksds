@@ -67,8 +67,10 @@ This document is under the CC0 1.0 universal license.
   2D applications with 2D and 3D hardware support.
 - [Nitro Engine](https://github.com/AntonioND/nitro-engine): Library to develop
   3D applications.
+- [PAlib](https://github.com/AntonioND/palib): Legacy library used to develop
+  NDS games and applications in the early life of the console.
 - [µLibrary](https://github.com/AntonioND/ulibrary): Library to develop 2D
-  applications using the 3D hardware of the DS.
+  applications using the 3D hardware of the DS. It can be used alongside PAlib.
 - [wifikb](https://github.com/headshot2017/wifikb): Library that allows you to
   use your PC's keyboard to type text on your DS homebrew.
 - [Woopsi](https://github.com/AntonioND/Woopsi):  Nintendo DS GUI framework for
