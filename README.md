@@ -33,7 +33,9 @@ This document is under the CC0 1.0 universal license.
   roguelike dungeon exploration game.
 - [DDNet 9](https://github.com/headshot2017/ddnet-nds): Free and open-source
   side-scrolling platformer with unique cooperative gameplay.
-- [UndertaleNDS](https://github.com/C3RV1/UndertaleNDS): Port of Undertale to
+- [Triple Triad DS](https://github.com/AntonioND/triple-triad-ds): Remake of
+  Triple Triad (card minigame included in Final Fantasy VIII).
+- [UndertaleNDS](https://github.com/C3RV1/UndertaleNDS): Remake of Undertale to
   Nintendo DS (source only, you must provide all copyrighted assets yourself).
 
 ## Applications
