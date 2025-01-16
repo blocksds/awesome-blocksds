@@ -45,6 +45,8 @@ This document is under the CC0 1.0 universal license.
 - [DSerial](https://github.com/asiekierka/dserial): DSerial card library,
   extracted from libdsmi.
 - [GameYob](https://github.com/DS-Homebrew/GameYob): GB, GBC and SGB emulator.
+- [Eigenmath DS](https://github.com/AntonioND/eigenmathds): Scientific
+  calculator for the Nintendo DS.
 - [MegaZeux](https://github.com/asiekierka/megazeux/tree/port-blocksds): Game
   creation system (GCS) created by game developer Alexis Janson in 1994.
 - [ndsntp](https://github.com/IvanVeloz/ndsntp):  NTP client that can set the
