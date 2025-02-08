@@ -44,6 +44,7 @@ This document is under the CC0 1.0 universal license.
   dumper for Nintendo DS, DSi and 3DS.
 - [DSerial](https://github.com/asiekierka/dserial): DSerial card library,
   extracted from libdsmi.
+- [DS81](https://github.com/asiekierka/DS81): ZX81 emulator for the NDS.
 - [GameYob](https://github.com/DS-Homebrew/GameYob): GB, GBC and SGB emulator.
 - [Eigenmath DS](https://github.com/AntonioND/eigenmathds): Scientific
   calculator for the Nintendo DS.
