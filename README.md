@@ -40,6 +40,8 @@ This document is under the CC0 1.0 universal license.
 
 ## Applications
 
+- [ao-nds](https://github.com/headshot2017/ao-nds): Attorney Online client for
+  the Nintendo DS.
 - [dsbf\_dump](https://github.com/DS-Homebrew/dsbf_dump): BIOS and firmware
   dumper for Nintendo DS, DSi and 3DS.
 - [DSerial](https://github.com/asiekierka/dserial): DSerial card library,
