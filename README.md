@@ -31,6 +31,8 @@ This document is under the CC0 1.0 universal license.
 
 - [Angband](https://github.com/angband/angband):  A free, single-player
   roguelike dungeon exploration game.
+- [ClassiCube](https://github.com/ClassiCube/ClassiCube): Clone of Minecraft for
+  many platforms, including NDS.
 - [DDNet 9](https://github.com/headshot2017/ddnet-nds): Free and open-source
   side-scrolling platformer with unique cooperative gameplay.
 - [Triple Triad DS](https://github.com/AntonioND/triple-triad-ds): Remake of
