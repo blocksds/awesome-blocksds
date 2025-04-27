@@ -54,6 +54,8 @@ This document is under the CC0 1.0 universal license.
   calculator for the Nintendo DS.
 - [MegaZeux](https://github.com/asiekierka/megazeux/tree/port-blocksds): Game
   creation system (GCS) created by game developer Alexis Janson in 1994.
+- [Micro Lua DS](https://github.com/asiekierka/micro-lua-ds): Updated port of
+  Micro Lua DS to BlocksDS with NitroFS and DSi support.
 - [ndsntp](https://github.com/IvanVeloz/ndsntp):  NTP client that can set the
   time and date of your DS from online NTP servers.
 - [Nitrous Tracker](https://github.com/asiekierka/nitrotracker): A Fasttracker
