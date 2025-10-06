@@ -42,6 +42,8 @@ This document is under the CC0 1.0 universal license.
 
 ## Applications
 
+- [3dmaze](https://github.com/headshot2017/3dmaze): Port of Windows 9x 3D Maze
+  screensaver to modern systems (and other platforms, like the NDS).
 - [ao-nds](https://github.com/headshot2017/ao-nds): Attorney Online client for
   the Nintendo DS.
 - [dsbf\_dump](https://github.com/DS-Homebrew/dsbf_dump): BIOS and firmware
