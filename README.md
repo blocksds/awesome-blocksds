@@ -60,8 +60,8 @@ This document is under the CC0 1.0 universal license.
   Micro Lua DS to BlocksDS with NitroFS and DSi support.
 - [ndsntp](https://github.com/IvanVeloz/ndsntp):  NTP client that can set the
   time and date of your DS from online NTP servers.
-- [Nitrous Tracker](https://github.com/asiekierka/nitrotracker): A Fasttracker
-  II style tracker for the Nintendo DS.
+- [Nitrous Tracker](https://github.com/NitrousTracker/nitroustracker): A
+  Fasttracker II style tracker for the Nintendo DS.
 - [uxnds](https://github.com/asiekierka/uxnds): NDS/3DS fork/port of the
   uxn/Varvara virtual machine.
 - [VNDS](https://github.com/asiekierka/vnds)
