@@ -54,6 +54,8 @@ This document is under the CC0 1.0 universal license.
 - [GameYob](https://github.com/DS-Homebrew/GameYob): GB, GBC and SGB emulator.
 - [Eigenmath DS](https://github.com/AntonioND/eigenmathds): Scientific
   calculator for the Nintendo DS.
+- [Kekatsu-DS](https://github.com/cavv-dev/Kekatsu-DS): Easy-to-use content
+  downloader for Nintendo DS(i) consoles.
 - [MegaZeux](https://github.com/asiekierka/megazeux/tree/port-blocksds): Game
   creation system (GCS) created by game developer Alexis Janson in 1994.
 - [Micro Lua DS](https://github.com/asiekierka/micro-lua-ds): Updated port of
