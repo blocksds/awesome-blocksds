@@ -50,6 +50,8 @@ This document is under the CC0 1.0 universal license.
   DSi.
 - [dsbf\_dump](https://github.com/DS-Homebrew/dsbf_dump): BIOS and firmware
   dumper for Nintendo DS, DSi and 3DS.
+- [DSMI library](https://github.com/NitrousTracker/dsmi): It provides MIDI
+  support for the DS.
 - [DSerial](https://github.com/asiekierka/dserial): DSerial card library,
   extracted from libdsmi.
 - [DS81](https://github.com/asiekierka/DS81): ZX81 emulator for the NDS.
@@ -100,5 +102,7 @@ This document is under the CC0 1.0 universal license.
 
 ## Development tools for NDS
 
+- [NDS Compressors by CUE](https://github.com/WonderfulToolchain/wf-nnpack):
+  Compressors for Nintendo GBA/DS consoles by CUE.
 - [ptexconv](https://github.com/blocksds/ptexconv): Graphics conversion tool
   with support for Tex4x4 texture format.
