@@ -97,8 +97,8 @@ This document is under the CC0 1.0 universal license.
 
 ## Ports of libraries to NDS
 
-- [Box2D](https://github.com/AntonioND/box2d_nds): 2D physics library.
-- [gbajpeg](https://github.com/blocksds/gbajpeg): JPEG loading library.
+- [Box2D](https://codeberg.org/blocksds/box2d_nds): 2D physics library.
+- [gbajpeg](https://codeberg.org/blocksds/gbajpeg): JPEG loading library.
 
 ## Development tools for NDS
 
