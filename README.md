@@ -4,7 +4,7 @@
 
 [BlocksDS](https://github.com/blocksds/sdk) is an SDK to develop applications
 for the Nintendo DS (and DSi). You can find its documentation
-[here](https://blocksds.github.io/docs/).
+[here](https://blocksds.skylyrac.net/).
 
 This document contains a list of links to projects related to BlocksDS.
 
@@ -102,7 +102,7 @@ This document is under the CC0 1.0 universal license.
 
 ## Development tools for NDS
 
-- [NDS Compressors by CUE](https://github.com/WonderfulToolchain/wf-nnpack):
+- [NDS Compressors by CUE](https://codeberg.org/WonderfulToolchain/wf-nnpack):
   Compressors for Nintendo GBA/DS consoles by CUE.
-- [ptexconv](https://github.com/blocksds/ptexconv): Graphics conversion tool
+- [ptexconv](https://github.com/Garhoogin/ptexconv): Graphics conversion tool
   with support for Tex4x4 texture format.
