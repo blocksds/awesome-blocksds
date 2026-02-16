@@ -18,7 +18,7 @@ This document is under the CC0 1.0 universal license.
   dungeons to explore.
 - [Meteora Galactic Battle](https://codeberg.org/SkyLyrac/meteora): Arcade game
   of fighting as a god against other planets.
-- [PortalDS](https://github.com/asiekierka/portalDS): Homebrew adaptation of
+- [PortalDS](https://github.com/Kuratius/portalDS): Homebrew adaptation of
   Valve's Portal.
 - [Space Impakto DS](https://codeberg.org/SkyLyrac/SpaceImpakto-DS): A
   Bullet-Hell SHMUP(Space Shooter).
