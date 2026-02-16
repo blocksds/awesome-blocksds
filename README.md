@@ -26,6 +26,7 @@ This document is under the CC0 1.0 universal license.
 - [TouhouDS](https://github.com/asiekierka/TouhouDS): Touhou engine for NDS.
 - [WolveSlayer](https://codeberg.org/SkyLyrac/wolveslayer): 3D hack'n'slash game
   with beautiful graphics.
+- [Traffic Escape DS](https://github.com/Warioware64/Traffic-Escape-DS): A Rush Hour-style traffic puzzle game with 3D graphics.
 
 ## Ports of games
 
