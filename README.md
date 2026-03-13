@@ -45,6 +45,8 @@ This document is under the CC0 1.0 universal license.
 
 - [3dmaze](https://github.com/headshot2017/3dmaze): Port of Windows 9x 3D Maze
   screensaver to modern systems (and other platforms, like the NDS).
+- [A-Pix DS](https://github.com/Alfombracitario/Alfombra-s-Pixel-Art-Editor-DS):
+  A YYCHR like Pixel Art editor for the nintendo DS!
 - [ao-nds](https://github.com/headshot2017/ao-nds): Attorney Online client for
   the Nintendo DS.
 - [Bunjalloo](https://codeberg.org/SkyLyrac/bunjalloo): Web browser for DS and
