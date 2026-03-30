@@ -49,6 +49,8 @@ This document is under the CC0 1.0 universal license.
   A YYCHR like Pixel Art editor for the nintendo DS!
 - [ao-nds](https://github.com/headshot2017/ao-nds): Attorney Online client for
   the Nintendo DS.
+- [bedrock-nds](https://benbridle.com/projects/bedrock/bedrock-nds): An emulator
+  for the Bedrock computer system.
 - [Bunjalloo](https://codeberg.org/SkyLyrac/bunjalloo): Web browser for DS and
   DSi.
 - [dsbf\_dump](https://github.com/DS-Homebrew/dsbf_dump): BIOS and firmware
