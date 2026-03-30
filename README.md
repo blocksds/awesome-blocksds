@@ -53,6 +53,8 @@ This document is under the CC0 1.0 universal license.
   for the Bedrock computer system.
 - [Bunjalloo](https://codeberg.org/SkyLyrac/bunjalloo): Web browser for DS and
   DSi.
+- [Cobalt](https://benbridle.com/projects/cobalt): Painting program for creating
+  textural and expressive pixel art, built on Bedrock.
 - [dsbf\_dump](https://github.com/DS-Homebrew/dsbf_dump): BIOS and firmware
   dumper for Nintendo DS, DSi and 3DS.
 - [DSMI library](https://github.com/NitrousTracker/dsmi): It provides MIDI
