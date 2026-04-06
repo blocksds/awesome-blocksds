@@ -81,6 +81,12 @@ This document is under the CC0 1.0 universal license.
 
 ## Demos
 
+- [Emulator Examination](https://codeberg.org/PoroCYon/emulator-examination):
+  Demo by Stargaze released at Revision 2026. More information in
+  [Pouet](https://www.pouet.net/prod.php?which=105928).
+- [nds-bgmode-ppuhax](https://codeberg.org/PoroCYon/nds-bgmode-ppuhax):
+  Proof-of-concept code of the PPU bgmode switch glitch thing, as demonstrated
+  in [Emulator Examination](https://www.pouet.net/prod.php?which=105928).
 - [Volumetric Shadow Demo](https://codeberg.org/SkyLyrac/volumetric_shadow_demo):
   Demo of hardware accelerated volumetric shadows and some other 3D features.
 
