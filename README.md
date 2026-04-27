@@ -77,7 +77,8 @@ This document is under the CC0 1.0 universal license.
   Fasttracker II style tracker for the Nintendo DS.
 - [uxnds](https://github.com/asiekierka/uxnds): NDS/3DS fork/port of the
   uxn/Varvara virtual machine.
-- [VNDS](https://github.com/asiekierka/vnds)
+- [VNDS](https://github.com/asiekierka/vnds): DS Visual Novel Reader is an
+  application used for playing gamebooks formatted with sound and pictures.
 
 ## Demos
 
