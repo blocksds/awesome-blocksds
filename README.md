@@ -82,6 +82,8 @@ This document is under the CC0 1.0 universal license.
 
 ## Demos
 
+- [emod DS](https://github.com/evan-ciao/emod-ds/): Sandbox prototype
+  environment in 3D.
 - [Emulator Examination](https://codeberg.org/PoroCYon/emulator-examination):
   Demo by Stargaze released at Revision 2026. More information in
   [Pouet](https://www.pouet.net/prod.php?which=105928).
