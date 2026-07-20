@@ -36,6 +36,8 @@ This document is under the CC0 1.0 universal license.
   many platforms, including NDS.
 - [DDNet 9](https://github.com/headshot2017/ddnet-nds): Free and open-source
   side-scrolling platformer with unique cooperative gameplay.
+- [Skyjo-DS](https://github.com/Warioware64/Skyjo-DS): Port of card board game
+  Skyjo with local multiplayer support.
 - [Triple Triad DS](https://codeberg.org/SkyLyrac/triple-triad-ds): Remake of
   Triple Triad (card minigame included in Final Fantasy VIII).
 - [UndertaleNDS](https://github.com/C3RV1/UndertaleNDS): Remake of Undertale to
