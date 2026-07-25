@@ -83,6 +83,9 @@ This document is under the CC0 1.0 universal license.
   uxn/Varvara virtual machine.
 - [VNDS](https://github.com/asiekierka/vnds): DS Visual Novel Reader is an
   application used for playing gamebooks formatted with sound and pictures.
+- [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan): Bandai WonderSwan
+  (Color/Crystal) & Benesse PocketChallenge V2 emulator for the Nintendo
+  DS(i)/3DS.
 
 ## Demos
 
