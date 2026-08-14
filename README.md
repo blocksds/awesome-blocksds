@@ -77,6 +77,8 @@ This document is under the CC0 1.0 universal license.
   time and date of your DS from online NTP servers.
 - [Nitrous Tracker](https://github.com/NitrousTracker/nitroustracker): A
   Fasttracker II style tracker for the Nintendo DS.
+- [PassMeLoader](https://github.com/flashcarts/PassMeLoader): Simple NDS
+  application that loads the GBA slot in PassMe mode.
 - [ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere):
   Custom Scratch Runtime made in C++ for multiple platforms, including DS.
 - [uxnds](https://github.com/asiekierka/uxnds): NDS/3DS fork/port of the
