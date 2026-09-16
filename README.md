@@ -53,8 +53,6 @@ This document is under the CC0 1.0 universal license.
   A YYCHR like Pixel Art editor for the nintendo DS!
 - [ao-nds](https://github.com/headshot2017/ao-nds): Attorney Online client for
   the Nintendo DS.
-- [bedrock-nds](https://benbridle.com/projects/bedrock/bedrock-nds): An emulator
-  for the Bedrock computer system.
 - [Bunjalloo](https://codeberg.org/SkyLyrac/bunjalloo): Web browser for DS and
   DSi.
 - [Cobalt](https://benbridle.com/projects/cobalt): Painting program for creating
@@ -65,14 +63,10 @@ This document is under the CC0 1.0 universal license.
   support for the DS.
 - [DSerial](https://github.com/asiekierka/dserial): DSerial card library,
   extracted from libdsmi.
-- [DS81](https://github.com/asiekierka/DS81): ZX81 emulator for the NDS.
-- [GameYob](https://github.com/DS-Homebrew/GameYob): GB, GBC and SGB emulator.
 - [Eigenmath DS](https://codeberg.org/SkyLyrac/eigenmathds): Scientific
   calculator for the Nintendo DS.
 - [Kekatsu-DS](https://github.com/cavv-dev/Kekatsu-DS): Easy-to-use content
   downloader for Nintendo DS(i) consoles.
-- [MegaZeux](https://github.com/asiekierka/megazeux/tree/port-blocksds): Game
-  creation system (GCS) created by game developer Alexis Janson in 1994.
 - [Micro Lua DS](https://github.com/asiekierka/micro-lua-ds): Updated port of
   Micro Lua DS to BlocksDS with NitroFS and DSi support.
 - [ndsntp](https://github.com/IvanVeloz/ndsntp):  NTP client that can set the
@@ -87,6 +81,15 @@ This document is under the CC0 1.0 universal license.
   uxn/Varvara virtual machine.
 - [VNDS](https://github.com/asiekierka/vnds): DS Visual Novel Reader is an
   application used for playing gamebooks formatted with sound and pictures.
+
+## Emulators
+
+- [bedrock-nds](https://benbridle.com/projects/bedrock/bedrock-nds): An emulator
+  for the Bedrock computer system.
+- [DS81](https://github.com/asiekierka/DS81): ZX81 emulator for the NDS.
+- [GameYob](https://github.com/DS-Homebrew/GameYob): GB, GBC and SGB emulator.
+- [MegaZeux](https://github.com/asiekierka/megazeux/tree/port-blocksds): Game
+  creation system (GCS) created by game developer Alexis Janson in 1994.
 - [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan): Bandai WonderSwan
   (Color/Crystal) & Benesse PocketChallenge V2 emulator for the Nintendo
   DS(i)/3DS.
