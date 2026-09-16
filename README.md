@@ -14,127 +14,75 @@ This document is under the CC0 1.0 universal license.
 
 ## Original games
 
-- [AngunaDS](https://github.com/asiekierka/angunads): Fantasy RPG with several
-  dungeons to explore.
-- [Meteora Galactic Battle](https://codeberg.org/SkyLyrac/meteora): Arcade game
-  of fighting as a god against other planets.
-- [PortalDS](https://github.com/Kuratius/portalDS): Homebrew adaptation of
-  Valve's Portal.
-- [Space Impakto DS](https://codeberg.org/SkyLyrac/SpaceImpakto-DS): A
-  Bullet-Hell SHMUP(Space Shooter).
+- [AngunaDS](https://github.com/asiekierka/angunads): Fantasy RPG with several dungeons to explore.
+- [Meteora Galactic Battle](https://codeberg.org/SkyLyrac/meteora): Arcade game of fighting as a god against other planets.
+- [PortalDS](https://github.com/Kuratius/portalDS): Homebrew adaptation of Valve's Portal.
+- [Space Impakto DS](https://codeberg.org/SkyLyrac/SpaceImpakto-DS): A Bullet-Hell SHMUP(Space Shooter).
 - [Tales of Dagur](https://codeberg.org/SkyLyrac/talesofdagur): RPG game for NDS.
 - [TouhouDS](https://github.com/asiekierka/TouhouDS): Touhou engine for NDS.
-- [WolveSlayer](https://codeberg.org/SkyLyrac/wolveslayer): 3D hack'n'slash game
-  with beautiful graphics.
+- [WolveSlayer](https://codeberg.org/SkyLyrac/wolveslayer): 3D hack'n'slash game with beautiful graphics.
 - [Traffic Escape DS](https://github.com/Warioware64/Traffic-Escape-DS): A Rush Hour-style traffic puzzle game with 3D graphics.
 
 ## Ports of games
 
-- [Angband](https://github.com/angband/angband): A free, single-player
-  roguelike dungeon exploration game.
-- [ClassiCube](https://github.com/ClassiCube/ClassiCube): Clone of Minecraft for
-  many platforms, including NDS.
-- [DDNet 9](https://github.com/headshot2017/ddnet-nds): Free and open-source
-  side-scrolling platformer with unique cooperative gameplay.
-- [Skyjo-DS](https://github.com/Warioware64/Skyjo-DS): Port of card board game
-  Skyjo with local multiplayer support.
-- [MYST-DS](https://github.com/Warioware64/myst-nds-port): Port of the adventure game
-   MYST on Nintendo DS.
-- [Triple Triad DS](https://codeberg.org/SkyLyrac/triple-triad-ds): Remake of
-  Triple Triad (card minigame included in Final Fantasy VIII).
-- [UndertaleNDS](https://github.com/C3RV1/UndertaleNDS): Remake of Undertale to
-  Nintendo DS (source only, you must provide all copyrighted assets yourself).
+- [Angband](https://github.com/angband/angband): A free, single-player roguelike dungeon exploration game.
+- [ClassiCube](https://github.com/ClassiCube/ClassiCube): Clone of Minecraft for many platforms, including NDS.
+- [DDNet 9](https://github.com/headshot2017/ddnet-nds): Free and open-source side-scrolling platformer with unique cooperative gameplay.
+- [Skyjo-DS](https://github.com/Warioware64/Skyjo-DS): Port of card board game Skyjo with local multiplayer support.
+- [MYST-DS](https://github.com/Warioware64/myst-nds-port): Port of the adventure game MYST on Nintendo DS.
+- [Triple Triad DS](https://codeberg.org/SkyLyrac/triple-triad-ds): Remake of Triple Triad (card minigame included in Final Fantasy VIII).
+- [UndertaleNDS](https://github.com/C3RV1/UndertaleNDS): Remake of Undertale to Nintendo DS (source only, you must provide all copyrighted assets yourself).
 
 ## Applications
 
-- [3dmaze](https://github.com/headshot2017/3dmaze): Port of Windows 9x 3D Maze
-  screensaver to modern systems (and other platforms, like the NDS).
-- [A-Pix DS](https://github.com/Alfombracitario/Alfombra-s-Pixel-Art-Editor-DS):
-  A YYCHR like Pixel Art editor for the nintendo DS!
-- [ao-nds](https://github.com/headshot2017/ao-nds): Attorney Online client for
-  the Nintendo DS.
-- [Bunjalloo](https://codeberg.org/SkyLyrac/bunjalloo): Web browser for DS and
-  DSi.
-- [Cobalt](https://benbridle.com/projects/cobalt): Painting program for creating
-  textural and expressive pixel art, built on Bedrock.
-- [dsbf\_dump](https://github.com/DS-Homebrew/dsbf_dump): BIOS and firmware
-  dumper for Nintendo DS, DSi and 3DS.
-- [DSMI library](https://github.com/NitrousTracker/dsmi): It provides MIDI
-  support for the DS.
-- [DSerial](https://github.com/asiekierka/dserial): DSerial card library,
-  extracted from libdsmi.
-- [Eigenmath DS](https://codeberg.org/SkyLyrac/eigenmathds): Scientific
-  calculator for the Nintendo DS.
-- [Kekatsu-DS](https://github.com/cavv-dev/Kekatsu-DS): Easy-to-use content
-  downloader for Nintendo DS(i) consoles.
-- [Micro Lua DS](https://github.com/asiekierka/micro-lua-ds): Updated port of
-  Micro Lua DS to BlocksDS with NitroFS and DSi support.
-- [ndsntp](https://github.com/IvanVeloz/ndsntp):  NTP client that can set the
-  time and date of your DS from online NTP servers.
-- [Nitrous Tracker](https://github.com/NitrousTracker/nitroustracker): A
-  Fasttracker II style tracker for the Nintendo DS.
-- [PassMeLoader](https://github.com/flashcarts/PassMeLoader): Simple NDS
-  application that loads the GBA slot in PassMe mode.
-- [ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere):
-  Custom Scratch Runtime made in C++ for multiple platforms, including DS.
-- [uxnds](https://github.com/asiekierka/uxnds): NDS/3DS fork/port of the
-  uxn/Varvara virtual machine.
-- [VNDS](https://github.com/asiekierka/vnds): DS Visual Novel Reader is an
-  application used for playing gamebooks formatted with sound and pictures.
+- [3dmaze](https://github.com/headshot2017/3dmaze): Port of Windows 9x 3D Maze screensaver to modern systems (and other platforms, like the NDS).
+- [A-Pix DS](https://github.com/Alfombracitario/Alfombra-s-Pixel-Art-Editor-DS): A YYCHR like Pixel Art editor for the nintendo DS!
+- [ao-nds](https://github.com/headshot2017/ao-nds): Attorney Online client for the Nintendo DS.
+- [Bunjalloo](https://codeberg.org/SkyLyrac/bunjalloo): Web browser for DS and DSi.
+- [Cobalt](https://benbridle.com/projects/cobalt): Painting program for creating textural and expressive pixel art, built on Bedrock.
+- [dsbf\_dump](https://github.com/DS-Homebrew/dsbf_dump): BIOS and firmware dumper for Nintendo DS, DSi and 3DS.
+- [DSMI library](https://github.com/NitrousTracker/dsmi): It provides MIDI support for the DS.
+- [DSerial](https://github.com/asiekierka/dserial): DSerial card library, extracted from libdsmi.
+- [Eigenmath DS](https://codeberg.org/SkyLyrac/eigenmathds): Scientific calculator for the Nintendo DS.
+- [Kekatsu-DS](https://github.com/cavv-dev/Kekatsu-DS): Easy-to-use content downloader for Nintendo DS(i) consoles.
+- [Micro Lua DS](https://github.com/asiekierka/micro-lua-ds): Updated port of Micro Lua DS to BlocksDS with NitroFS and DSi support.
+- [ndsntp](https://github.com/IvanVeloz/ndsntp): NTP client that can set the time and date of your DS from online NTP servers.
+- [Nitrous Tracker](https://github.com/NitrousTracker/nitroustracker): A Fasttracker II style tracker for the Nintendo DS.
+- [PassMeLoader](https://github.com/flashcarts/PassMeLoader): Simple NDS application that loads the GBA slot in PassMe mode.
+- [ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere): Custom Scratch Runtime made in C++ for multiple platforms, including DS.
+- [uxnds](https://github.com/asiekierka/uxnds): NDS/3DS fork/port of the uxn/Varvara virtual machine.
+- [VNDS](https://github.com/asiekierka/vnds): DS Visual Novel Reader is an application used for playing gamebooks formatted with sound and pictures.
 
 ## Emulators
 
-- [bedrock-nds](https://benbridle.com/projects/bedrock/bedrock-nds): An emulator
-  for the Bedrock computer system.
+- [bedrock-nds](https://benbridle.com/projects/bedrock/bedrock-nds): An emulator for the Bedrock computer system.
 - [DS81](https://github.com/asiekierka/DS81): ZX81 emulator for the NDS.
 - [GameYob](https://github.com/DS-Homebrew/GameYob): GB, GBC and SGB emulator.
-- [LodjurDS](https://github.com/FluBBaOfWard/LodjurDS): An Atari Lynx emulator
-  for Nintendo DS(i)/3DS.
-- [MegaZeux](https://github.com/asiekierka/megazeux/tree/port-blocksds): Game
-  creation system (GCS) created by game developer Alexis Janson in 1994.
-- [NitroGrafx](https://github.com/FluBBaOfWard/NitroGrafx): PC-Engine/TurboGrafx-16
-  emulator for Nintendo DS(i)/3DS.
-- [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan): Bandai WonderSwan
-  (Color/Crystal) & Benesse PocketChallenge V2 emulator for the Nintendo
-  DS(i)/3DS.
-- [S8DS](https://github.com/FluBBaOfWard/S8DS): A Sega 8bit systems emulator for
-  Nintendo DS(i)/3DS.
-- [WasabiDS](https://github.com/FluBBaOfWard/WasabiDS): Watara Supervision
-  emulator for Nintendo DS(i)/3DS.
+- [LodjurDS](https://github.com/FluBBaOfWard/LodjurDS): An Atari Lynx emulator for Nintendo DS(i)/3DS.
+- [MegaZeux](https://github.com/asiekierka/megazeux/tree/port-blocksds): Game creation system (GCS) created by game developer Alexis Janson in 1994.
+- [NitroGrafx](https://github.com/FluBBaOfWard/NitroGrafx): PC-Engine/TurboGrafx-16 emulator for Nintendo DS(i)/3DS.
+- [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan): Bandai WonderSwan (Color/Crystal) & Benesse PocketChallenge V2 emulator for the Nintendo DS(i)/3DS.
+- [S8DS](https://github.com/FluBBaOfWard/S8DS): A Sega 8bit systems emulator for Nintendo DS(i)/3DS.
+- [WasabiDS](https://github.com/FluBBaOfWard/WasabiDS): Watara Supervision emulator for Nintendo DS(i)/3DS.
 
 ## Demos
 
-- [emod DS](https://github.com/evan-ciao/emod-ds/): Sandbox prototype
-  environment in 3D.
-- [Emulator Examination](https://codeberg.org/PoroCYon/emulator-examination):
-  Demo by Stargaze released at Revision 2026. More information in
-  [Pouet](https://www.pouet.net/prod.php?which=105928).
-- [nds-bgmode-ppuhax](https://codeberg.org/PoroCYon/nds-bgmode-ppuhax):
-  Proof-of-concept code of the PPU bgmode switch glitch thing, as demonstrated
-  in [Emulator Examination](https://www.pouet.net/prod.php?which=105928).
-- [Volumetric Shadow Demo](https://codeberg.org/SkyLyrac/volumetric_shadow_demo):
-  Demo of hardware accelerated volumetric shadows and some other 3D features.
+- [emod DS](https://github.com/evan-ciao/emod-ds/): Sandbox prototype environment in 3D.
+- [Emulator Examination](https://codeberg.org/PoroCYon/emulator-examination): Demo by Stargaze released at Revision 2026. More information in [Pouet](https://www.pouet.net/prod.php?which=105928).
+- [nds-bgmode-ppuhax](https://codeberg.org/PoroCYon/nds-bgmode-ppuhax): Proof-of-concept code of the PPU bgmode switch glitch thing, as demonstrated in [Emulator Examination](https://www.pouet.net/prod.php?which=105928).
+- [Volumetric Shadow Demo](https://codeberg.org/SkyLyrac/volumetric_shadow_demo): Demo of hardware accelerated volumetric shadows and some other 3D features.
 
 ## Development libraries for NDS
 
-- [DSMA](https://codeberg.org/SkyLyrac/dsma-library): Library to display 3D
-  models with skeletal animations using hardware acceleration.
-- [LibDSF](https://codeberg.org/SkyLyrac/libdsf): Library to render text using
-  fonts generated by [BMFont](https://www.angelcode.com/products/bmfont).
-- [libmikmod](https://codeberg.org/blocksds/libmikmod_nds): Port of the library
-  used by the Mikmod module player.
-- [NightFox's Lib](https://github.com/knightfox75/nds_nflib): Library to develop
-  2D applications with 2D and 3D hardware support.
-- [Nitro Engine](https://github.com/AntonioND/nitro-engine): Library to develop
-  3D applications.
-- [PAlib](https://codeberg.org/SkyLyrac/palib): Legacy library used to develop
-  NDS games and applications in the early life of the console.
-- [µLibrary](https://codeberg.org/blocksds/ulibrary): Library to develop 2D
-  applications using the 3D hardware of the DS. It can be used alongside PAlib.
-- [wifikb](https://github.com/headshot2017/wifikb): Library that allows you to
-  use your PC's keyboard to type text on your DS homebrew.
-- [Woopsi](https://codeberg.org/SkyLyrac/Woopsi):  Nintendo DS GUI framework for
-  creating user interfaces for homebrew software.
+- [DSMA](https://codeberg.org/SkyLyrac/dsma-library): Library to display 3D models with skeletal animations using hardware acceleration.
+- [LibDSF](https://codeberg.org/SkyLyrac/libdsf): Library to render text using fonts generated by [BMFont](https://www.angelcode.com/products/bmfont).
+- [libmikmod](https://codeberg.org/blocksds/libmikmod_nds): Port of the library used by the Mikmod module player.
+- [NightFox's Lib](https://github.com/knightfox75/nds_nflib): Library to develop 2D applications with 2D and 3D hardware support.
+- [Nitro Engine](https://github.com/AntonioND/nitro-engine): Library to develop 3D applications.
+- [PAlib](https://codeberg.org/SkyLyrac/palib): Legacy library used to develop NDS games and applications in the early life of the console.
+- [µLibrary](https://codeberg.org/blocksds/ulibrary): Library to develop 2D applications using the 3D hardware of the DS. It can be used alongside PAlib.
+- [wifikb](https://github.com/headshot2017/wifikb): Library that allows you to use your PC's keyboard to type text on your DS homebrew.
+- [Woopsi](https://codeberg.org/SkyLyrac/Woopsi): Nintendo DS GUI framework for creating user interfaces for homebrew software.
 
 ## Ports of libraries to NDS
 
@@ -143,7 +91,5 @@ This document is under the CC0 1.0 universal license.
 
 ## Development tools for NDS
 
-- [NDS Compressors by CUE](https://codeberg.org/WonderfulToolchain/wf-nnpack):
-  Compressors for Nintendo GBA/DS consoles by CUE.
-- [ptexconv](https://github.com/Garhoogin/ptexconv): Graphics conversion tool
-  with support for Tex4x4 texture format.
+- [NDS Compressors by CUE](https://codeberg.org/WonderfulToolchain/wf-nnpack): Compressors for Nintendo GBA/DS consoles by CUE.
+- [ptexconv](https://github.com/Garhoogin/ptexconv): Graphics conversion tool with support for Tex4x4 texture format.
