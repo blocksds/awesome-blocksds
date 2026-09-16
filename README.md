@@ -21,22 +21,22 @@ This document is under the CC0 1.0 universal license.
 - [Tales of Dagur](https://codeberg.org/SkyLyrac/talesofdagur): RPG game for NDS.
 - [TouhouDS](https://github.com/asiekierka/TouhouDS): Touhou engine for NDS.
 - [WolveSlayer](https://codeberg.org/SkyLyrac/wolveslayer): 3D hack'n'slash game with beautiful graphics.
-- [Traffic Escape DS](https://github.com/Warioware64/Traffic-Escape-DS): A Rush Hour-style traffic puzzle game with 3D graphics.
+- [Traffic Escape DS 🤖](https://github.com/Warioware64/Traffic-Escape-DS): A Rush Hour-style traffic puzzle game with 3D graphics.
 
 ## Ports of games
 
 - [Angband](https://github.com/angband/angband): A free, single-player roguelike dungeon exploration game.
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube): Clone of Minecraft for many platforms, including NDS.
 - [DDNet 9](https://github.com/headshot2017/ddnet-nds): Free and open-source side-scrolling platformer with unique cooperative gameplay.
-- [Skyjo-DS](https://github.com/Warioware64/Skyjo-DS): Port of card board game Skyjo with local multiplayer support.
-- [MYST-DS](https://github.com/Warioware64/myst-nds-port): Port of the adventure game MYST on Nintendo DS.
+- [Skyjo-DS 🤖](https://github.com/Warioware64/Skyjo-DS): Port of card board game Skyjo with local multiplayer support.
+- [MYST-DS 🤖](https://github.com/Warioware64/myst-nds-port): Port of the adventure game MYST on Nintendo DS.
 - [Triple Triad DS](https://codeberg.org/SkyLyrac/triple-triad-ds): Remake of Triple Triad (card minigame included in Final Fantasy VIII).
 - [UndertaleNDS](https://github.com/C3RV1/UndertaleNDS): Remake of Undertale to Nintendo DS (source only, you must provide all copyrighted assets yourself).
 
 ## Applications
 
 - [3dmaze](https://github.com/headshot2017/3dmaze): Port of Windows 9x 3D Maze screensaver to modern systems (and other platforms, like the NDS).
-- [A-Pix DS](https://github.com/Alfombracitario/Alfombra-s-Pixel-Art-Editor-DS): A YYCHR like Pixel Art editor for the nintendo DS!
+- [A-Pix DS 🤖](https://github.com/Alfombracitario/Alfombra-s-Pixel-Art-Editor-DS): A YYCHR like Pixel Art editor for the nintendo DS!
 - [ao-nds](https://github.com/headshot2017/ao-nds): Attorney Online client for the Nintendo DS.
 - [Bunjalloo](https://codeberg.org/SkyLyrac/bunjalloo): Web browser for DS and DSi.
 - [Cobalt](https://benbridle.com/projects/cobalt): Painting program for creating textural and expressive pixel art, built on Bedrock.
