@@ -15,6 +15,7 @@ This document is under the CC0 1.0 universal license.
 ## Original games
 
 - [AngunaDS](https://github.com/asiekierka/angunads): Fantasy RPG with several dungeons to explore.
+- [Blimp Chicken DS 🤖](https://github.com/My-name-is-TJ/blimp-chicken-ds): Drink & drive an airship, dodge fighter jets, smoke, and ram skyscrapers in a 3D arcade combat game.
 - [Meteora Galactic Battle](https://codeberg.org/SkyLyrac/meteora): Arcade game of fighting as a god against other planets.
 - [PortalDS](https://github.com/Kuratius/portalDS): Homebrew adaptation of Valve's Portal.
 - [Space Impakto DS](https://codeberg.org/SkyLyrac/SpaceImpakto-DS): A Bullet-Hell SHMUP(Space Shooter).
@@ -30,6 +31,7 @@ This document is under the CC0 1.0 universal license.
 - [DDNet 9](https://github.com/headshot2017/ddnet-nds): Free and open-source side-scrolling platformer with unique cooperative gameplay.
 - [Skyjo-DS 🤖](https://github.com/Warioware64/Skyjo-DS): Port of card board game Skyjo with local multiplayer support.
 - [MYST-DS 🤖](https://github.com/Warioware64/myst-nds-port): Port of the adventure game MYST on Nintendo DS.
+- [Riven DS 🤖](https://github.com/Warioware64/Riven-The-Sequel-Of-Myst-NDS-Port): Homebrew port of Riven (sequel of MYST) on Nintendo DS.
 - [Triple Triad DS](https://codeberg.org/SkyLyrac/triple-triad-ds): Remake of Triple Triad (card minigame included in Final Fantasy VIII).
 - [UndertaleNDS](https://github.com/C3RV1/UndertaleNDS): Remake of Undertale to Nintendo DS (source only, you must provide all copyrighted assets yourself).
 
@@ -47,6 +49,7 @@ This document is under the CC0 1.0 universal license.
 - [Kekatsu-DS](https://github.com/cavv-dev/Kekatsu-DS): Easy-to-use content downloader for Nintendo DS(i) consoles.
 - [Micro Lua DS](https://github.com/asiekierka/micro-lua-ds): Updated port of Micro Lua DS to BlocksDS with NitroFS and DSi support.
 - [ndsntp](https://github.com/IvanVeloz/ndsntp): NTP client that can set the time and date of your DS from online NTP servers.
+- [NitroOffice 🤖](https://github.com/Warioware64/NitroOffice): A nintendo DSi homebrew application to read and write documents.
 - [Nitrous Tracker](https://github.com/NitrousTracker/nitroustracker): A Fasttracker II style tracker for the Nintendo DS.
 - [PassMeLoader](https://github.com/flashcarts/PassMeLoader): Simple NDS application that loads the GBA slot in PassMe mode.
 - [ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere): Custom Scratch Runtime made in C++ for multiple platforms, including DS.
