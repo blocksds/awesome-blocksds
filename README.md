@@ -48,6 +48,7 @@ This document is under the CC0 1.0 universal license.
 - [Eigenmath DS](https://codeberg.org/SkyLyrac/eigenmathds): Scientific calculator for the Nintendo DS.
 - [Kekatsu-DS](https://github.com/cavv-dev/Kekatsu-DS): Easy-to-use content downloader for Nintendo DS(i) consoles.
 - [Micro Lua DS](https://github.com/asiekierka/micro-lua-ds): Updated port of Micro Lua DS to BlocksDS with NitroFS and DSi support.
+- [miniboot](https://codeberg.org/asie/nds-miniboot): Minimalist flashcart bootloader replacement for NDS
 - [ndsntp](https://github.com/IvanVeloz/ndsntp): NTP client that can set the time and date of your DS from online NTP servers.
 - [NitroOffice](https://github.com/Warioware64/NitroOffice): 🤖 A nintendo DSi homebrew application to read and write documents.
 - [Nitrous Tracker](https://github.com/NitrousTracker/nitroustracker): A Fasttracker II style tracker for the Nintendo DS.
