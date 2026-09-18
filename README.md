@@ -98,3 +98,4 @@ This document is under the CC0 1.0 universal license.
 
 - [NDS Compressors by CUE](https://codeberg.org/WonderfulToolchain/wf-nnpack): Compressors for Nintendo GBA/DS consoles by CUE.
 - [ptexconv](https://github.com/Garhoogin/ptexconv): Graphics conversion tool with support for Tex4x4 texture format.
+- [TheXTech](https://wohlsoft.ru/projects/TheXTech): Free and open-source game engine for Mario-like platforming games.
