@@ -20,6 +20,7 @@ This document is under the CC0 1.0 universal license.
 - [PortalDS](https://github.com/Kuratius/portalDS): Homebrew adaptation of Valve's Portal.
 - [Space Impakto DS](https://codeberg.org/SkyLyrac/SpaceImpakto-DS): A Bullet-Hell SHMUP(Space Shooter).
 - [Tales of Dagur](https://codeberg.org/SkyLyrac/talesofdagur): RPG game for NDS.
+- [Tetris 3DS](https://codeberg.org/SkyLyrac/tetris-3ds): Tetris in 3D for DS.
 - [TouhouDS](https://github.com/asiekierka/TouhouDS): Touhou engine for NDS.
 - [WolveSlayer](https://codeberg.org/SkyLyrac/wolveslayer): 3D hack'n'slash game with beautiful graphics.
 - [Traffic Escape DS](https://github.com/Warioware64/Traffic-Escape-DS): 🤖 A Rush Hour-style traffic puzzle game with 3D graphics.
