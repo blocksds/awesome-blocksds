@@ -65,6 +65,7 @@ This document is under the CC0 1.0 universal license.
 - [GameYob](https://github.com/DS-Homebrew/GameYob): GB, GBC and SGB emulator.
 - [LodjurDS](https://github.com/FluBBaOfWard/LodjurDS): An Atari Lynx emulator for Nintendo DS(i)/3DS.
 - [MegaZeux](https://github.com/asiekierka/megazeux/tree/port-blocksds): Game creation system (GCS) created by game developer Alexis Janson in 1994.
+- [NGPDS](https://github.com/FluBBaOfWard/NGPDS): SNK Neogeo Pocket emulator for Nintendo DS(i)/3DS.
 - [NitroGrafx](https://github.com/FluBBaOfWard/NitroGrafx): PC-Engine/TurboGrafx-16 emulator for Nintendo DS(i)/3DS.
 - [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan): Bandai WonderSwan (Color/Crystal) & Benesse PocketChallenge V2 emulator for the Nintendo DS(i)/3DS.
 - [S8DS](https://github.com/FluBBaOfWard/S8DS): A Sega 8bit systems emulator for Nintendo DS(i)/3DS.
